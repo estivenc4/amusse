@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Base were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/amusse
+Data file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-content-import-file_2021-01-07__06-09-50.xml
+Widget file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-07__06-09-50.json
+Customizer file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-07__06-09-50.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Total - Newsletter Form - No Title - Widget already exists
+Total - Social Links - Follow Us - Widget already exists
+Total - Posts With Thumbnails - Popular Posts - Widget already exists
+Categorías - No Title - Widget already exists
+Total - Advertisement - Sponsors - Widget already exists
+Nube de etiquetas - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Total - Posts With Thumbnails - Recent Posts - Widget already exists
+Total - Posts Thumbnail Grid - Recent Portfolios - Widget already exists
+Categorías - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Product Categories - Product Categories - Widget already exists
+Products by Rating - Top Rated Products - Widget already exists
+Product Search - Product Search - Widget already exists
+Texto - Coupon Code - Widget already exists
+
+Portfolio Sidebar : 
+
+Total - Social Links - Follow Us - Widget already exists
+Total - Posts With Thumbnails - Recent Posts - Widget already exists
+Total - Posts Thumbnail Grid - Recent Projects - Widget already exists
+Nube de etiquetas - No Title - Widget already exists
+
+Staff Sidebar : 
+
+Buscar - No Title - Widget already exists
+Total - Posts Thumbnail Grid - Human Resources - Widget already exists
+Total - Facebook Page - Facebook Page - Widget already exists
+Total - Posts With Thumbnails - New Projects - Widget already exists
+
+Footer Column 1 : 
+
+HTML personalizado - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Entradas recientes - Recent News - Widget already exists
+
+Footer Column 3 : 
+
+Total - Posts With Thumbnails - Recent Work - Widget already exists
+
+Footer Column 4 : 
+
+Texto - Contact Us - Widget already exists
+Total - Social Links - Follow Us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

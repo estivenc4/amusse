@@ -1,0 +1,225 @@
+
+---Downloaded files---
+The import files for: Base were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/amusse
+Data file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-content-import-file_2021-01-07__05-12-13.xml
+Widget file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-07__05-12-13.json
+Customizer file = C:\xampp\htdocs\amusse/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-07__05-12-13.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "court" (Medios)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "buildings-slide" (Medios)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "shop15" (Medios)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Total - Newsletter Form - No Title - Imported
+Total - Social Links - Follow Us - Imported
+Total - Posts With Thumbnails - Popular Posts - Imported
+Categorías - No Title - Imported
+Total - Advertisement - Sponsors - Imported
+Nube de etiquetas - No Title - Imported
+
+Pages Sidebar : 
+
+Total - Posts With Thumbnails - Recent Posts - Imported
+Total - Posts Thumbnail Grid - Recent Portfolios - Imported
+Categorías - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product Categories - Imported
+Products by Rating - Top Rated Products - Imported
+Product Search - Product Search - Imported
+Texto - Coupon Code - Imported
+
+Portfolio Sidebar : 
+
+Total - Social Links - Follow Us - Imported
+Total - Posts With Thumbnails - Recent Posts - Imported
+Total - Posts Thumbnail Grid - Recent Projects - Imported
+Nube de etiquetas - No Title - Imported
+
+Staff Sidebar : 
+
+Buscar - No Title - Imported
+Total - Posts Thumbnail Grid - Human Resources - Imported
+Total - Facebook Page - Facebook Page - Imported
+Total - Posts With Thumbnails - New Projects - Imported
+
+Footer Column 1 : 
+
+HTML personalizado - No Title - Imported
+
+Footer Column 2 : 
+
+Entradas recientes - Recent News - Imported
+
+Footer Column 3 : 
+
+Total - Posts With Thumbnails - Recent Work - Imported
+
+Footer Column 4 : 
+
+Texto - Contact Us - Imported
+Total - Social Links - Follow Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
